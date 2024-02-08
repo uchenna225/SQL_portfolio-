@@ -1,1 +1,1 @@
-The Nashville is a data cleaning project
+This repo contains sql projects 
